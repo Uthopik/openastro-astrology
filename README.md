@@ -1,6 +1,8 @@
 # openastro-astrology
 Open source fully-featured astrology software
 
+Openastro 1.1.57 wasn’t working after installation. I’ve fixed a few minor bugs and now I think it’s working properly. I’ve uploaded the corrected code and created an AppImage version.
+
 # AppImage version of Openastro v1.2
 - **OpenAstro-v1.2-x86_64.AppImage** **[Download](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/OpenAstro-v1.2-x86_64.AppImage)**
 - Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
