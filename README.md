@@ -1,5 +1,5 @@
 # openastro-astrology
-Open source fully-featured astrology software
+Open source fully-featured astrology software.
 
 Openastro 1.1.57 wasn’t working after installation. I’ve fixed a few minor bugs and now I think it’s working properly. I’ve uploaded the corrected code and created an AppImage version.
 
