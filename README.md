@@ -8,6 +8,13 @@ Open source fully-featured astrology software
 ```bash
 chmod +x ./OpenAstro-v1.2-x86_64.AppImage
 ```
+
+# Source code
+
+- **[Source Code of Openastro v1.2](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/openastro-1.2.tar.gz)**
+
+- **[Data - Openastro v1.2](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/openastro-data-1.2.tar.gz)**
+
 # Other interesting astrology programs
 
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
