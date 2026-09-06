@@ -22,3 +22,4 @@ chmod +x ./OpenAstro-v1.2-x86_64.AppImage
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
 - **Morinus 8.2** **[Here](https://github.com/Uthopik/morinus-astrology)**
 - **Maitreya 8.2** **[Here](https://github.com/Uthopik/maitreya-astrology)**
+- **Oroboros v20260905** **[Here](https://github.com/Uthopik/oroboros-astrology)**
