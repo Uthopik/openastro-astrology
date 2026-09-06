@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/chart.png" alt="Captura centrada" width="300">
+</p>
+
 # openastro-astrology
 Open source fully-featured astrology software.
 
