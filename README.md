@@ -35,3 +35,7 @@ yay -S openastro.org
 - **Maitreya v8.2** **[Here](https://github.com/Uthopik/maitreya-astrology)**
 - **Oroboros v20260906** **[Here](https://github.com/Uthopik/oroboros-astrology)**
 - **Zodiac v0.7.1** **[Here](https://github.com/Uthopik/zodiac-astrology)**
+
+<p align="center">
+  <img src="img/openastro.png" alt="Captura centrada" width="800">
+</p>
