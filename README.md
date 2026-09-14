@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/chart.png" alt="Captura centrada" width="300">
+  <img src="img/chart.png" alt="Captura centrada" width="1000">
 </p>
 
 # openastro-astrology
