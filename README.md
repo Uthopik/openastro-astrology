@@ -15,11 +15,18 @@ Openastro 1.1.57 wasn’t working after installation. I’ve fixed a few minor b
 chmod +x ./OpenAstro-v1.2-x86_64.AppImage
 ```
 
+- On **Arch-based** Linux distributions **(Cachy, Manjaro, Endeavour,...)** you can install it via **AUR**:
+
+```bash
+sudo pacman -S --needed base-devel yay
+yay -S openastro.org
+```
+
 # Source code
 
-- **[Source Code of Openastro v1.2](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/openastro-1.2.tar.gz)**
+- **[Source Code of Openastro v1.2](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/openastro.org_1.2.orig.tar.gz)**
 
-- **[Data - Openastro v1.2](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/openastro-data-1.2.tar.gz)**
+- **[Data - Openastro v1.2](https://github.com/Uthopik/openastro-astrology/releases/download/v1.2/openastro.org-data_1.2.orig.tar.gz)**
 
 # Other interesting astrology programs
 
